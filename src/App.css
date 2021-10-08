@@ -1,0 +1,43 @@
+.round-pic {
+  border-radius: 50%;
+  background-color: grey;
+  height: 130px;
+  width: 130px;
+  margin: 0px auto 25px auto;
+  line-height: 130px;
+  font-size: 45px;
+}
+
+.card {
+  width: 270px;
+  height: 350px;
+  align-items: center;
+  float: left;
+  margin-bottom: 40px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.reverse-card {
+  height: 300px;
+  align-items: left;
+  border: 1px solid #000; 
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 270px;
+  padding: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+.name-title {
+  text-align: center;
+  font-style: italic;
+  color: grey;
+}
+
+.button-details {
+  margin-top: 20px;
+  width: 180px;
+}
